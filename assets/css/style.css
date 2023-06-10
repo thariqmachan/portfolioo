@@ -80,7 +80,7 @@ section {
 
 /* hero */
 #hero {
-    background: url("../img/cover_1.jpg");
+    background: url("/images/photo-1562813733-b31f71025d54.avif");
     min-height: 100vh;
     background-position: center;
     background-size: cover;
